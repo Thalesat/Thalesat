@@ -1,5 +1,5 @@
-<p aling="center>
- <img src="https://github.com/kterra92/keterra92/raw/mais/assets/github-v2.gif" alt="hi, I'm Thales">
+<p align="center">
+  <img src="https://github.com/Thalesat/Thalesat/blob/main/assets/Library_Loom-18December2024-ezgif.com-video-to-gif-converter.gif" alt="hi, I'm Thales">
 </p>
 
 - 🔭 I’m currently working on [VR Benefícios](https://www.linkedin.com/company/issoevr/posts/?feedView=all)
@@ -18,11 +18,10 @@
 
 
 <h3 align="left"> 📊 Github Metrics </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thalesat&show_icons=true&locale=en" alt="thalesat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalesat&" alt="thalesat" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalesat&label=Profile%20views&color=0e75b6&style=flat" alt="thalesat" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thalesat&show_icons=true&locale=en" alt="thalesat" /></p>
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
