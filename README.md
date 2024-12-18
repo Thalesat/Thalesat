@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Thales</h1>
-<h3 align="center">A passionate data Scientist from Brazil</h3>
+<p aling="center>
+ <img src="https://github.com/kterra92/keterra92/raw/mais/assets/github-v2.gif" alt="hi, I'm Thales">
+</p>
 
 - 🔭 I’m currently working on [VR Benefícios](https://www.linkedin.com/company/issoevr/posts/?feedView=all)
 - 👯 I’m looking to collaborate on **Data science and AI Ethics**
